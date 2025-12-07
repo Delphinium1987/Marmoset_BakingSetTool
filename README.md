@@ -12,3 +12,11 @@
 如果 FBX 中同时包含 High 和 Low 模型物体。点击** Set Bake HtoL **按钮，建立 BakeProject，并自动将模型一一对应分配到烘焙组中。
 
 ![GIF2](https://github.com/user-attachments/assets/3c0b93da-b3e1-407d-8486-62e2bb7ddee1)
+
+## 模型显示和烘焙
+ShowModel 页签下的按钮用于快速切换高模/低模显示，**Bake **按钮可用于贴图烘焙，和官方面板按钮功能相同。
+
+
+## Tips
+本工具本来是用于我自己的工作流的，一部分功能和 Blender 插件配合工作，应群友要求开源，部分不通用的功能做了删除处理（比如 LowtoLow 工作流）。
+现在 AI 编程流行，我自己是不太擅长 Python 的，部分功能参考了 AI 的教学和指导。在此感谢 Deepseek 老师。
